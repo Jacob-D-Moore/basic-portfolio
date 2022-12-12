@@ -3,13 +3,16 @@ import React from "react";
 function Intro() {
   return (
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
-      <h1 className="text-4xl md:text-7xl mb-1 md:mb-3 font-bold">
+      <h1 className="animate-pulse text-4xl md:text-7xl mb-1 md:mb-3 font-bold">
         Jacob Moore
       </h1>
       <p className="text-base md:text-xl mb-3 font-large">
         Self Taught Web Developer
       </p>
-      <p className=" text-sm max-w-xl mb-6">
+      <p
+        className=" text-xl max-w-xl mb-5
+      "
+      >
         I started my coding journey when I was 16 and wanted to make an app. My
         parents got me a "Coding for Dummies" book and it sat there and
         collected dust. Fast foward 11 years, I decided to finally take software

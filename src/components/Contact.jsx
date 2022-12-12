@@ -2,7 +2,10 @@ import React from "react";
 
 function Contact() {
   return (
-    <div className="flex flex-col mb-10 mx-auto">
+    <div
+      className="flex flex-col mb-10
+     mx-auto"
+    >
       <div className="flex justify-center items-center">
         <form
           action="https://getform.io/f/f150fd83-1abf-4473-a485-0eb5e9920c20"

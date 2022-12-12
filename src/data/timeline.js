@@ -35,6 +35,6 @@ export default [
     title: "Bachelor's of Sceince in Biblical Studies",
     duration: "4 years",
     details:
-      "I pursed a degree in biblical studies that taught me valuable skills. Through this degree I gained critcal think and problem solving skills. The degree cumlated with planting a ",
+      "I pursed a degree in biblical studies that taught me valuable skills. Through this degree I gained critcal think and problem solving skills. These skills have helped me in my coding journy as I think critically about a problem and how to come to a soloution. ",
   },
 ];
